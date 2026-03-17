@@ -34,7 +34,7 @@ Sou de **Sumaré-SP** e atualmente estou cursando o **segundo ano do ensino méd
 Sinta-se à vontade para me chamar!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/giovana-mendon%C3%A7a-carvalho-1923413b2/)" target="_blank">
+  <a href="https://www.linkedin.com/in/giovana-mendon%C3%A7a-carvalho-1923413b2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
  
