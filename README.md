@@ -2,7 +2,7 @@
 
 ### 👩‍💻 Desenvolvedora em Formação | 
 
-Sou de **Sumaré-SP** e atualmente estou cursando o **segundo ano do ensino médio**e mergulhando no mundo da tecnologia através do curso técnico em **Desenvolvimento de Sistemas** no **SENAI Celso Charuri**.
+Sou de **Sumaré-SP** e atualmente estou cursando o **segundo ano do ensino médio* *e mergulhando no mundo da tecnologia através do curso técnico em **Desenvolvimento de Sistemas** no **SENAI Celso Charuri**.
 ---
 
 ### 🚀 Sobre mim
