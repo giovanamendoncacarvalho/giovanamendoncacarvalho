@@ -8,7 +8,7 @@ Sou de **Sumaré-SP** e atualmente estou cursando o **segundo ano do ensino méd
 ### 🚀 Sobre mim
 
 - 📚 **Estudante:** Técnico em Desenvolvimento de Sistemas no SENAI Celso Charuri e segundo ano do ensino médio.
-- ⏳**Idade:** Tenho 15 anos.
+- ⏳**Idade:** Tenho 16 anos.
 - 📍 **Localização:** Sumaré, SP.
 - 💬 **Pronomes:** she/her.
 - 🌱 **Foco atual:** terminar o ensino médio e o curso técnico para ingressar no mercado de trabalho.
